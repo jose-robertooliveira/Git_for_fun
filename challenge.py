@@ -32,4 +32,3 @@ def LetterChanges(str) -> None:
 
 obj = LetterChanges("abcdefghijklmnopqrstuvwxyz")
 print(obj)
-
